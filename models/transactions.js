@@ -91,7 +91,7 @@ module.exports = [
     },
     {
         id: 109,
-        item_name: "Dance & Karate Class",
+        item_name: "Dance",
         amount: 222,
         date: "11.28.2024",
         from: "Checking",
@@ -101,6 +101,16 @@ module.exports = [
     },
     {
         id: 110,
+        item_name: "Karate",
+        amount: 222,
+        date: "11.29.2024",
+        from: "Checking",
+        category: "Extracurricular",
+        type: "Withdrawl"
+
+    },
+    {
+        id: 111,
         item_name: "Savings ",
         amount: 9999,
         date: "11.30.2024",
