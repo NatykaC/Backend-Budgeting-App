@@ -11,10 +11,10 @@ module.exports = [
     },
     {
         id: 101,
-        item_name: "Rent",
-        amount: 2222,
+        item_name: "Mortgage",
+        amount: -2222,
         date: "11.14.2024",
-        from: "Checking",
+        from: "Bank",
         category: "Home",
         type: "Withdrawl"
 
@@ -22,9 +22,9 @@ module.exports = [
     {
         id: 102,
         item_name: "Tuition",
-        amount: 1111,
+        amount: -1111,
         date: "11.17.2024",
-        from: "Checking",
+        from: "School",
         category: "Children",
         type: "Withdrawl"
 
@@ -34,7 +34,7 @@ module.exports = [
         item_name: "Gas",
         amount: 111,
         date: "11.20.2024",
-        from: "Checking",
+        from: "Gas Station",
         category: "Car",
         type: "Withdrawl"
 
@@ -44,7 +44,7 @@ module.exports = [
         item_name: "Groceries",
         amount: 333,
         date: "11.22.2024",
-        from: "Checking",
+        from: "Supermarket",
         category: "Food",
         type: "Withdrawl"
 
@@ -54,7 +54,7 @@ module.exports = [
         item_name: "Credit Card",
         amount: 444,
         date: "11.23.2024",
-        from: "Checking",
+        from: "Bank",
         category: "Credit",
         type: "Withdrawl"
 
@@ -74,7 +74,7 @@ module.exports = [
         item_name: "Dinner",
         amount: 555,
         date: "11.26.2024",
-        from: "Chekcing",
+        from: "Sammys",
         category: "Fun",
         type: "Withdrawl"
 
@@ -84,7 +84,7 @@ module.exports = [
         item_name: "Utilities",
         amount: 777,
         date: "11.27.2024",
-        from: "Checking",
+        from: "ConEd",
         category: "Home",
         type: "Withdarawl"
 
@@ -94,7 +94,7 @@ module.exports = [
         item_name: "Dance",
         amount: 222,
         date: "11.28.2024",
-        from: "Checking",
+        from: "Alvin Ailey American Dance Theater",
         category: "Extracurricular",
         type: "Withdrawl"
 
@@ -104,7 +104,7 @@ module.exports = [
         item_name: "Karate",
         amount: 222,
         date: "11.29.2024",
-        from: "Checking",
+        from: "Internation Martial Arts Center",
         category: "Extracurricular",
         type: "Withdrawl"
 
